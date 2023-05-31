@@ -21,9 +21,9 @@ Features
 Dependencies
 This project utilizes the following technologies and frameworks:
 
-Java
-Spring Core
-Spring MVC
-Hibernate
-Servlets
-SQL
+- Java
+- Spring Core
+- Spring MVC
+- Hibernate
+- Servlets
+- SQL
